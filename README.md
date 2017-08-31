@@ -31,9 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+[Link to Video Walkthrough](https://www.dropbox.com/s/ucgh4vseigd5uid/Todo%20App.mp4?dl=0)
 
 ## Project Analysis
 
@@ -54,7 +52,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Quang Nguyen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
